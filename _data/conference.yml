@@ -1,0 +1,134 @@
+full_title: Fifth IEEE Workshop on Hot Topics in Web Systems and Technologies
+short_title: Hotweb 2017
+email: hotwebchair@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  HotWeb is a forum bringing together researchers and practitioners interested 
+  in the design, implementation, and evaluation of Internet systems and applications. 
+location: San Jose, CA, 2017
+date: October 14, 2017
+logo_path: ./assets/images/logo2017.jpg
+slideshow:
+  - id: 0
+    image_path: ./assets/images/slideshow/image0.jpg
+    description: San Jose night scene
+    photographer_name: Mike Boening
+    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    active: True
+  - id: 1
+    image_path: ./assets/images/slideshow/image1.jpg
+    description: San Jose Museum of Art
+    photographer_name: Bryan Nabong
+    photographer_link: https://www.flickr.com/photos/bongarang/
+  - id: 2
+    image_path: ./assets/images/slideshow/image2.jpg
+    description: San Jose State University
+    photographer_name: David Sawyer
+    photographer_link: https://www.flickr.com/photos/18702768@N04/
+  - id: 3
+    image_path: ./assets/images/slideshow/image3.jpg
+    description: Cathedral Basilica of St. Joseph
+    photographer_name: Patricia Montes Gregory
+    photographer_link: https://www.flickr.com/photos/32159045@N02/
+  - id: 4
+    image_path: ./assets/images/slideshow/image4.jpg
+    description: Winchester Mystery House
+    photographer_name: Pomax
+    photographer_link: https://www.flickr.com/photos/pomax/
+  - id: 5
+    image_path: ./assets/images/slideshow/image5.jpg
+    description: Rose Garden Branch Library
+    photographer_name: John Menard
+    photographer_link: https://www.flickr.com/photos/jmenard48/
+navbar:
+  - id: 0
+    label: Home
+    path: /
+    visible: True
+  - id: 1
+    label: Organziers
+    path: /organization.html
+    visible: True
+  - id: 2
+    label: Call for Papers
+    path: /cfp.html
+    visible: True
+  - id: 3
+    label: Submission
+    path: /submission.html
+    visible: True
+  - id: 4
+    label: Programs
+    path: /program.html
+    visible: True
+  - id: 5
+    label: Venue
+    path: /venue.html
+    visible: True
+  - id: 6
+    label: Registration
+    path: /registration.html
+    visible: True
+deadlines:
+  - date: 2017-6-20 21:00:00
+    timezone: PDT
+    text: Submission deadline
+    pass_due: False
+  - date: 2017-8-7
+    text: Notification of acceptance
+    pass_due: False
+  - date: 2017-8-17
+    text: Camera-ready copy due
+    pass_due: False
+  - date: 2017-10-14
+    text: Workshop
+    pass_due: False
+news:
+  - date: 2017-03-08
+    text: Website online
+sponsors:
+  - name: IEEE
+    logo_path: ./assets/images/sponsors/ieee-logo.gif
+social_media:
+  facebook_link: https://www.facebook.com/hotwebseries/
+  twitter_link:
+organizing_committees:
+  - role: Program Chair
+    name: Qun Li
+    org: College of William and Mary (USA)
+    homepage: http://www.cs.wm.edu/~liqun
+  - role: Registration Chair
+    name: TBA
+    org: TBA
+    homepage: TBA
+  - role: Webmaster
+    name: Shanhe Yi
+    org: College of William and Mary (USA)
+    homepage: http://www.cs.wm.edu/~syi
+steering_committees:
+  - name: Azer Bestavros
+    org: Boston University (USA)
+    homepage: http://azer.bestavros.net/
+  - name: Songqing Chen
+    org: George Mason University (USA)
+    homepage: http://www.cs.gmu.edu/~sqchen/
+  - name: Fred Douglis
+    org: Dell EMC (USA)
+    homepage: http://www.douglis.org/fred/
+  - name: Arun Iyengar
+    org: IBM (USA)
+    homepage: http://researcher.watson.ibm.com/researcher/view.php?person=us-aruni
+  - name: Michael Rabinovich
+    org: Case Western Reserve University (USA)
+    homepage: http://engr.case.edu/rabinovich_michael/
+  - name: Pablo Rodriguez
+    org: Telefonica Research (Spain)
+    homepage: http://www.rodriguezrodriguez.com/
+  - name: Weisong Shi
+    org: Wayne State University (USA)
+    homepage: http://www.cs.wayne.edu/~weisong/
+technical_program_committees:
+  - name: TBA
+    org: TBA
+    homepage: TBA
+
+
