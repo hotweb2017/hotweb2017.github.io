@@ -18,10 +18,10 @@ slide_id: 1
                 </div>  
                 {% endfor %}
                 {% else %}
-                <div class="card-block bg-faded">
-                    <h6 class="card-title">TBA</h6>
+                <div class="card-block bg-faded committee">
+                    <p class="card-title">TBA</p>
                     <p><strong>TBA</strong><p>
-                    <h6 class="card-subtitle text-muted">TBA</h6>
+                    <p class="card-subtitle text-muted" style="font-size: 90%;">TBA</p>
                 </div>               
                 {% endif %}
             </div>
@@ -30,15 +30,15 @@ slide_id: 1
                 <div class="card-header text-white bg-inverse"><strong>Steering Committee</strong></div>
                 {% if site.data.conference.steering_committees %}
                 {% for committee in site.data.conference.steering_committees %}
-                 <div class="card-block bg-faded committee">
+                <div class="card-block bg-faded committee">
                     <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
                     <p class="card-subtitle text-muted" style="font-size: 90%;">{{ committee.org }}</p>
                 </div>  
                 {% endfor %}
                 {% else %}
-                <div class="card-block bg-faded">
+                <div class="card-block bg-faded committee">
                     <p><strong>TBA</strong><p>
-                    <p class="card-subtitle text-muted">TBA</p>
+                    <p class="card-subtitle text-muted" style="font-size: 90%;">TBA</p>
                 </div>               
                 {% endif %}
             </div>
@@ -57,9 +57,9 @@ slide_id: 1
                 </div>  
                 {% endfor %}
                 {% else %}
-                <div class="card-block bg-faded">
+                <div class="card-block bg-faded committee">
                     <p><strong>TBA</strong><p>
-                    <p class="card-subtitle text-muted">TBA</p>
+                    <p class="card-subtitle text-muted" style="font-size: 90%;">TBA</p>
                 </div>               
                 {% endif %}
             </div>

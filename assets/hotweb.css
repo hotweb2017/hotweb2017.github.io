@@ -2,6 +2,11 @@
    font-family:  Helvetica,Arial,sans-serif
 }
 
+.carousel {
+  -webkit-transform-style: preserve-3d;
+  -webkit-backface-visibility: hidden;
+}
+
 .jumbotron,
 .carousel-item {
     height: 270px;
