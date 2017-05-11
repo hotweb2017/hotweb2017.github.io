@@ -91,15 +91,10 @@ sponsors:
 social_media:
   facebook_link: https://www.facebook.com/hotwebseries/
   twitter_link:
-organizing_committees:
-  - role: Program Chair
-    name: Qun Li
+program_chair:
+  - name: Qun Li
     org: College of William and Mary (USA)
     homepage: http://www.cs.wm.edu/~liqun
-  - role: Webmaster
-    name: Shanhe Yi
-    org: College of William and Mary (USA)
-    homepage: http://www.cs.wm.edu/~syi
 steering_committees:
   - name: Azer Bestavros
     org: Boston University (USA)
@@ -126,5 +121,8 @@ technical_program_committees:
   - name: TBA
     org: TBA
     homepage: TBA
-
+webmaster:
+  - name: Shanhe Yi
+    org: College of William and Mary (USA)
+    homepage: http://www.cs.wm.edu/~syi
 
