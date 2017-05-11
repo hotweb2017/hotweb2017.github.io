@@ -69,7 +69,10 @@
 .committee {
     padding: 10px;
     border-top: 0.05rem solid #e5e5e5;
+}
 
+.committee p {
+    margin-left: 20px;
 }
 .card-header {
     padding-top: 4px;
