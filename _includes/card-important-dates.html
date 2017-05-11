@@ -13,9 +13,9 @@
                             {% endif %}
                                 <p><strong>{{ deadline.text }}:</strong> 
                                 {% if deadline.timezone %}
-                                {{ deadline.date | date: "%B %-d, %Y. (%l%p " }}{{ deadline.timezone }})
+                                {{ deadline.date | date: "%B %e, %Y." }}({{ deadline.timezone }})
                                 {% else %}
-                                {{ deadline.date | date: "%B %-d, %Y." }}
+                                {{ deadline.date | date: "%B %e, %Y." }}
                                 {% endif %}</p>
                             {% if deadline.pass_due %}
                             </del>
