@@ -45,7 +45,7 @@ navbar:
     path: /
     visible: True
   - id: 1
-    label: Organziers
+    label: Organization
     path: /organization.html
     visible: True
   - id: 2
