@@ -1,6 +1,6 @@
 full_title: Fifth IEEE Workshop on Hot Topics in Web Systems and Technologies
 short_title: Hotweb 2017
-email: hotwebchair@gmail.com
+email: hotweb2017@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   HotWeb is a forum bringing together researchers and practitioners interested 
   in the design, implementation, and evaluation of Internet systems and applications. 
@@ -118,9 +118,36 @@ steering_committees:
     org: Wayne State University (USA)
     homepage: http://www.cs.wayne.edu/~weisong/
 technical_program_committees:
-  - name: TBA
-    org: TBA
-    homepage: TBA
+  - name: Azer Bestavros 
+    org: Boston University (USA)
+    homepage: http://www.bu.edu/cs/azer-bestavros/
+  - name: Pei Gao
+    org: Google (USA)
+    homepage: http://crypto.stanford.edu/~cao/
+  - name: Brian Davison
+    org: Lehigh University (USA)
+    homepage: http://www.cse.lehigh.edu/~brian/
+  - name: Fred Douglis
+    org: Dell EMC (USA)
+    homepage: http://www.douglis.org/fred/
+  - name: Giancarlo Fortino
+    org: University of Calabria (Italy)
+    homepage: http://si.deis.unical.it/fortino/
+  - name: Lei Guo
+    org: Google (USA)
+    homepage: https://scholar.google.com/citations?user=h6Nw2X4AAAAJ&hl=en
+  - name: Aziz Mohaisen
+    org: SUNY Buffalo (USA)
+    homepage: http://www.cse.buffalo.edu/~mohaisen/
+  - name: Michael Rabinovich
+    org: Case Western Reserve University (USA)
+    homepage: http://engr.case.edu/rabinovich_michael/
+  - name: Thomas Steiner
+    org: Google (Germany)
+    homepage: https://research.google.com/pubs/author39477.html
+  - name: Craig Wills
+    org: Worcester Polytechnic Institute (USA)
+    homepage: http://web.cs.wpi.edu/~cew/
 webmaster:
   - name: Shanhe Yi
     org: College of William and Mary (USA)
