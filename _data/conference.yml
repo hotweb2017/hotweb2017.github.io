@@ -83,6 +83,8 @@ deadlines:
     text: Workshop
     pass_due: False
 news:
+  - date: 2017-05-12
+    text: Submission site online
   - date: 2017-03-08
     text: Website online
 sponsors:
@@ -145,6 +147,9 @@ technical_program_committees:
   - name: Thomas Steiner
     org: Google (Germany)
     homepage: https://research.google.com/pubs/author39477.html
+  - name: Vishy Swaminathan
+    org: Adobe Research (USA)
+    homepage: https://research.adobe.com/person/vishy-swaminathan/
   - name: Craig Wills
     org: Worcester Polytechnic Institute (USA)
     homepage: http://web.cs.wpi.edu/~cew/
