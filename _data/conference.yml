@@ -104,6 +104,9 @@ steering_committees:
   - name: Azer Bestavros
     org: Boston University (USA)
     homepage: http://azer.bestavros.net/
+  - name: Songqing Chen
+    org: George Mason University (USA)
+    homepage: http://www.cs.gmu.edu/~sqchen/
   - name: Fred Douglis
     org: Dell EMC (USA)
     homepage: http://www.douglis.org/fred/
