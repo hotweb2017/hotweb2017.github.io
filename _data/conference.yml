@@ -97,13 +97,13 @@ program_chair:
   - name: Qun Li
     org: College of William and Mary (USA)
     homepage: http://www.cs.wm.edu/~liqun
+  - name: Songqing Chen
+    org: George Mason University (USA)
+    homepage: http://www.cs.gmu.edu/~sqchen/
 steering_committees:
   - name: Azer Bestavros
     org: Boston University (USA)
     homepage: http://azer.bestavros.net/
-  - name: Songqing Chen
-    org: George Mason University (USA)
-    homepage: http://www.cs.gmu.edu/~sqchen/
   - name: Fred Douglis
     org: Dell EMC (USA)
     homepage: http://www.douglis.org/fred/
@@ -138,6 +138,12 @@ technical_program_committees:
   - name: Lei Guo
     org: Google (USA)
     homepage: https://scholar.google.com/citations?user=h6Nw2X4AAAAJ&hl=en
+  - name: Yang Guo
+    org: NIST (USA)
+    homepage: https://sites.google.com/site/yangguohomepage/
+  - name: Arun Iyengar
+    org: IBM (USA)
+    homepage: http://researcher.watson.ibm.com/researcher/view.php?person=us-aruni
   - name: Aziz Mohaisen
     org: SUNY Buffalo (USA)
     homepage: http://www.cse.buffalo.edu/~mohaisen/
@@ -147,12 +153,21 @@ technical_program_committees:
   - name: Thomas Steiner
     org: Google (Germany)
     homepage: https://research.google.com/pubs/author39477.html
+  - name: Christopher Stewart
+    org: Ohio State University (USA)
+    homepage: http://web.cse.ohio-state.edu/~stewart.962/
   - name: Vishy Swaminathan
     org: Adobe Research (USA)
     homepage: https://research.adobe.com/person/vishy-swaminathan/
+  - name: Qingyang Wang
+    org: Louisiana State University (USA)
+    homepage: http://csc.lsu.edu/~qywang/
   - name: Craig Wills
     org: Worcester Polytechnic Institute (USA)
     homepage: http://web.cs.wpi.edu/~cew/
+  - name: Yifan Zhang
+    org: SUNY Binghamton (USA)
+    homepage: http://www.cs.binghamton.edu/~zhangy/
 webmaster:
   - name: Shanhe Yi
     org: College of William and Mary (USA)
