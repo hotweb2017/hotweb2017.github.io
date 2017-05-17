@@ -1,4 +1,4 @@
-full_title: Fifth IEEE Workshop on Hot Topics in Web Systems and Technologies
+full_title: Fifth ACM/IEEE Workshop on Hot Topics in Web Systems and Technologies
 short_title: Hotweb 2017
 email: hotweb2017@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -88,8 +88,8 @@ news:
   - date: 2017-03-08
     text: Website online
 sponsors:
-  - name: IEEE
-    logo_path: ./assets/images/sponsors/ieee-logo.gif
+  - name: ACM
+    logo__path: ./assets/images/sponsors/acm-logo.png
 social_media:
   facebook_link: https://www.facebook.com/hotwebseries/
   twitter_link:
