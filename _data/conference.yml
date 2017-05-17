@@ -89,7 +89,7 @@ news:
     text: Website online
 sponsors:
   - name: ACM
-    logo__path: ./assets/images/sponsors/acm-logo.png
+    logo_path: ./assets/images/sponsors/acm-logo.png
 social_media:
   facebook_link: https://www.facebook.com/hotwebseries/
   twitter_link:
