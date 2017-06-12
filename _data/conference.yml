@@ -69,9 +69,9 @@ navbar:
     path: /registration.html
     visible: True
 deadlines:
-  - date: 2017-6-20
+  - date: 2017-7-6
     timezone: 9PM PDT
-    text: Submission deadline
+    text: Submission deadline (extended)
     pass_due: False
   - date: 2017-8-7
     text: Notification of acceptance
