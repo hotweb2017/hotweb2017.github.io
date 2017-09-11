@@ -46,7 +46,7 @@
       - title: "Understanding the Effectiveness of Typosquatting Techniques"
         speakers: "Jeffrey Spaulding:University of Central Florida; DaeHun Nyang:Inha University; Aziz Mohaisen:University of Central Florida"
       - title: "Inference attacks based on neural networks in social networks"
-        speakers: "Bo Mei:The George Washington University; Yinhao Xiao:The George Washington University; Hong Li:Chinese Academy of Sciences; Xiuzhen Cheng:The George Washington University; Yunchuan Sun:Beijng Normal University"
+        speakers: "Bo Mei:George Washington University; Yinhao Xiao:George Washington University; Hong Li:Chinese Academy of Sciences; Xiuzhen Cheng:George Washington University; Yunchuan Sun:Beijng Normal University"
   - startTime: "15:00"
     endTime: "15:30"
     title: "Coffee break"
@@ -57,7 +57,7 @@
     type: "presentation"
     events: 
       - title: "Edge Computing Enabled Smart Firefighting: Opportunities and Challenges"
-        speakers: "Xiaopei Wu: Wayne State University; Qingyang Zhang: Anhui University, Wayne State University; Weisong Shi: Wayne State University; "
+        speakers: "Xiaopei Wu:Wayne State University; Robert Dunne:Wayne State University, Detroit Fire Department; Qingyang Zhang:Anhui University, Wayne State University; Weisong Shi:Wayne State University; "
       - title: "Graph-Pubsub: An Efficient Publish/Subscribe Architecture with Graph-Based Information Relationships"
         speakers: "Jiachen Chen:WINLAB, Rutgers University; Haoyuan Xu:WINLAB, Rutgers University; Yanyong Zhang:WINLAB Rutgers University; Dipankar Raychaudhuri:WINLAB Rutgers University"
       - title: "A Knowledge and Reasoning Toolkit for Cognitive Applications"
