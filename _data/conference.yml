@@ -83,6 +83,8 @@ deadlines:
     text: Workshop
     pass_due: False
 news:
+  - date: 2017-10-14
+    text: Workshop has been successfully held
   - date: 2017-05-12
     text: Submission site online
   - date: 2017-03-08
